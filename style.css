@@ -1,0 +1,17 @@
+#logo{
+    padding-top: 110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 80px;
+}
+
+#search-form{
+    padding-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 8px;
+    padding-bottom: 20px
+    width: 582 px;
+}
